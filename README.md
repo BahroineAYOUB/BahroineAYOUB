@@ -22,6 +22,7 @@ This year I integrated **LLM APIs (Gemini)** into a production platform that cut
 
 - 🎓 3rd-year Engineering Cycle @ FST Settat (CPGE graduate — PCSI/PSI)
 - ☕ **Oracle Certified Professional: Java SE 17 Developer** *(Feb 2026)*
+- - 🌐 Core focus: **Full-Stack Development** (Java/Spring Boot · React · TypeScript)
 - 🤖 Working with **LLMs, prompt engineering, and AI automation** in production
 - 📱 Shipped a live cross-platform travel platform — **web + iOS + Android**
 - 🔍 Actively seeking a **PFE internship** (end-of-study)

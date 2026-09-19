@@ -5,8 +5,8 @@
 ### Full-Stack · Mobile · AI Developer
 *3rd-year Computer Engineering @ FST Settat · 3 internships · Oracle Certified Java SE 17*
 
-[![Oracle Certified](https://img.shields.io/badge/Oracle_Certified-Java_SE_17_Professional-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/java/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Barhoine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-barhoine)
+[![Oracle Certified](https://img.shields.io/badge/Oracle_Certified-Java_SE_17_Professional-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1E604D8FD8FA7F61B9969F6160FA616BEC65E3BDCAECBDE39684278110C0619F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Barhoine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-barhoine-860144335/)
 [![Email](https://img.shields.io/badge/Email-berh1ayoub%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berh1ayoub@gmail.com)
 [![TripNest](https://img.shields.io/badge/TripNest-Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://trip-nest-frontend-rho.vercel.app)
 

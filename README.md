@@ -94,8 +94,6 @@ Built the official institutional platform for donation management, event booking
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BahroineAYOUB&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BahroineAYOUB&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/BahroineAYOUB)
-
 </div>
 
 ---
